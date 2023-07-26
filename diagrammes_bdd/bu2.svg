@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="32 23 1815 2725" width="1783px" height="2702px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="639" y1="455" x2="629" y2="455" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="444" y1="107" x2="434" y2="107" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="629" y1="455" x2="444" y2="107" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="631.5" y1="455" x2="635.03553390593" y2="458.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="631.5" y1="455" x2="635.03553390593" y2="451.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="110.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="103.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="512" y1="68" x2="502" y2="68" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="444" y1="107" x2="434" y2="107" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="502" y1="68" x2="444" y2="107" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="504.5" y1="68" x2="508.03553390593" y2="71.535533905933" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="504.5" y1="68" x2="508.03553390593" y2="64.464466094067" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="110.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="103.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="787" y1="72" x2="777" y2="72" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="444" y1="107" x2="434" y2="107" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="777" y1="72" x2="444" y2="107" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="779.5" y1="72" x2="783.03553390593" y2="75.535533905933" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="779.5" y1="72" x2="783.03553390593" y2="68.464466094067" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="110.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="103.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="164" y1="420" x2="174" y2="420" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="271" y1="127" x2="281" y2="127" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="174" y1="420" x2="271" y2="127" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="171.5" y1="420" x2="167.96446609407" y2="423.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="171.5" y1="420" x2="167.96446609407" y2="416.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="276" y1="127" x2="272.46446609407" y2="130.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="276" y1="127" x2="272.46446609407" y2="123.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="204" y1="197" x2="214" y2="197" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="271" y1="127" x2="281" y2="127" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="214" y1="197" x2="271" y2="127" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="211.5" y1="197" x2="207.96446609407" y2="200.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="211.5" y1="197" x2="207.96446609407" y2="193.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="276" y1="127" x2="272.46446609407" y2="130.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="276" y1="127" x2="272.46446609407" y2="123.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="1598" y1="922" x2="1588" y2="922" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="444" y1="107" x2="434" y2="107" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="1588" y1="922" x2="444" y2="107" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="1590.5" y1="922" x2="1594.0355339059" y2="925.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="1590.5" y1="922" x2="1594.0355339059" y2="918.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="110.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="103.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="961" y1="648" x2="951" y2="648" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="444" y1="107" x2="434" y2="107" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="951" y1="648" x2="444" y2="107" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="953.5" y1="648" x2="957.03553390593" y2="651.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="953.5" y1="648" x2="957.03553390593" y2="644.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="110.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="103.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="1177" y1="446" x2="1167" y2="446" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="444" y1="107" x2="434" y2="107" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="1167" y1="446" x2="444" y2="107" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="1169.5" y1="446" x2="1173.0355339059" y2="449.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="1169.5" y1="446" x2="1173.0355339059" y2="442.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="110.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="103.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="937" y1="450" x2="927" y2="450" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="444" y1="107" x2="434" y2="107" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="927" y1="450" x2="444" y2="107" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="929.5" y1="450" x2="933.03553390593" y2="453.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="929.5" y1="450" x2="933.03553390593" y2="446.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="110.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="103.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="1177" y1="728" x2="1167" y2="728" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="444" y1="107" x2="434" y2="107" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="1167" y1="728" x2="444" y2="107" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="1169.5" y1="728" x2="1173.0355339059" y2="731.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="1169.5" y1="728" x2="1173.0355339059" y2="724.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="110.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="103.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="1424" y1="680" x2="1414" y2="680" style="stroke:#333;stroke-width:1;"/>
+   <line x1="444" y1="107" x2="434" y2="107" style="stroke:#333;stroke-width:1;"/>
+   <line x1="1414" y1="680" x2="444" y2="107" style="stroke:#333;stroke-width:1;"/>
+   <line x1="1416.5" y1="680" x2="1420.0355339059" y2="683.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="1416.5" y1="680" x2="1420.0355339059" y2="676.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="110.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="439" y1="107" x2="442.53553390593" y2="103.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="261" y1="570" x2="271" y2="570" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="271" y1="127" x2="281" y2="127" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="271" y1="570" x2="271" y2="127" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="268.5" y1="570" x2="264.96446609407" y2="573.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="268.5" y1="570" x2="264.96446609407" y2="566.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="276" y1="127" x2="272.46446609407" y2="130.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="276" y1="127" x2="272.46446609407" y2="123.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <rect width="238" height="20" x="639" y="425" style="fill:#007;stroke:black;"/>
+   <text width="238" height="20" x="644" y="439" style="fill:#fff;" font-family="Arial" font-size="16px"> Airforce</text>
+   <rect width="238" height="20" x="639" y="445" style="fill:#aea;stroke:black;"/>
+   <text width="238" height="20" x="644" y="459" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="238" height="20" x="639" y="465" style="fill:none;stroke:black;"/>
+   <text width="238" height="20" x="644" y="479" style="fill:black;" font-family="Arial" font-size="16px">quantite_aeronaval</text>
+   <rect width="238" height="20" x="639" y="485" style="fill:none;stroke:black;"/>
+   <text width="238" height="20" x="644" y="499" style="fill:black;" font-family="Arial" font-size="16px">quantite_biplan</text>
+   <rect width="238" height="20" x="639" y="505" style="fill:none;stroke:black;"/>
+   <text width="238" height="20" x="644" y="519" style="fill:black;" font-family="Arial" font-size="16px">quantite_bombardier</text>
+   <rect width="238" height="20" x="639" y="525" style="fill:none;stroke:black;"/>
+   <text width="238" height="20" x="644" y="539" style="fill:black;" font-family="Arial" font-size="16px">quantite_bombardier_strategique</text>
+   <rect width="238" height="20" x="639" y="545" style="fill:none;stroke:black;"/>
+   <text width="238" height="20" x="644" y="559" style="fill:black;" font-family="Arial" font-size="16px">quantite_chasseur</text>
+   <rect width="238" height="20" x="639" y="565" style="fill:none;stroke:black;"/>
+   <text width="238" height="20" x="644" y="579" style="fill:black;" font-family="Arial" font-size="16px">quantite_porte_avion</text>
+   <rect width="238" height="20" x="639" y="585" style="fill:none;stroke:black;"/>
+   <text width="238" height="20" x="644" y="599" style="fill:black;" font-family="Arial" font-size="16px">quantite_parachutiste</text>
+   <rect width="238" height="20" x="639" y="605" style="fill:none;stroke:black;"/>
+   <text width="238" height="20" x="644" y="619" style="fill:black;" font-family="Arial" font-size="16px">quantite_transporteur</text>
+   <rect width="221" height="20" x="512" y="38" style="fill:#007;stroke:black;"/>
+   <text width="221" height="20" x="517" y="52" style="fill:#fff;" font-family="Arial" font-size="16px"> Arme</text>
+   <rect width="221" height="20" x="512" y="58" style="fill:#aea;stroke:black;"/>
+   <text width="221" height="20" x="517" y="72" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="221" height="20" x="512" y="78" style="fill:none;stroke:black;"/>
+   <text width="221" height="20" x="517" y="92" style="fill:black;" font-family="Arial" font-size="16px">quantite_infanterie</text>
+   <rect width="221" height="20" x="512" y="98" style="fill:none;stroke:black;"/>
+   <text width="221" height="20" x="517" y="112" style="fill:black;" font-family="Arial" font-size="16px">quantite_infanterie_mecanisee</text>
+   <rect width="221" height="20" x="512" y="118" style="fill:none;stroke:black;"/>
+   <text width="221" height="20" x="517" y="132" style="fill:black;" font-family="Arial" font-size="16px">quantite_infanterie_motorisee</text>
+   <rect width="221" height="20" x="512" y="138" style="fill:none;stroke:black;"/>
+   <text width="221" height="20" x="517" y="152" style="fill:black;" font-family="Arial" font-size="16px">quantite_infanterie_alpine</text>
+   <rect width="221" height="20" x="512" y="158" style="fill:none;stroke:black;"/>
+   <text width="221" height="20" x="517" y="172" style="fill:black;" font-family="Arial" font-size="16px">quantite_infanterie_marine</text>
+   <rect width="221" height="20" x="512" y="178" style="fill:none;stroke:black;"/>
+   <text width="221" height="20" x="517" y="192" style="fill:black;" font-family="Arial" font-size="16px">quantite_troupes_occupation</text>
+   <rect width="221" height="20" x="512" y="198" style="fill:none;stroke:black;"/>
+   <text width="221" height="20" x="517" y="212" style="fill:black;" font-family="Arial" font-size="16px">quantite_troupes_genie</text>
+   <rect width="221" height="20" x="512" y="218" style="fill:none;stroke:black;"/>
+   <text width="221" height="20" x="517" y="232" style="fill:black;" font-family="Arial" font-size="16px">quantite_artillerie</text>
+   <rect width="221" height="20" x="512" y="238" style="fill:none;stroke:black;"/>
+   <text width="221" height="20" x="517" y="252" style="fill:black;" font-family="Arial" font-size="16px">quantite_artillerie_mobile</text>
+   <rect width="221" height="20" x="512" y="258" style="fill:none;stroke:black;"/>
+   <text width="221" height="20" x="517" y="272" style="fill:black;" font-family="Arial" font-size="16px">quantite_blinde</text>
+   <rect width="221" height="20" x="512" y="278" style="fill:none;stroke:black;"/>
+   <text width="221" height="20" x="517" y="292" style="fill:black;" font-family="Arial" font-size="16px">quantite_char_bataille</text>
+   <rect width="123" height="20" x="787" y="42" style="fill:#007;stroke:black;"/>
+   <text width="123" height="20" x="792" y="56" style="fill:#fff;" font-family="Arial" font-size="16px"> Diplomatie</text>
+   <rect width="123" height="20" x="787" y="62" style="fill:#aea;stroke:black;"/>
+   <text width="123" height="20" x="792" y="76" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="123" height="20" x="787" y="82" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="96" style="fill:black;" font-family="Arial" font-size="16px">filons_cedes</text>
+   <rect width="123" height="20" x="787" y="102" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="116" style="fill:black;" font-family="Arial" font-size="16px">base_militaire</text>
+   <rect width="123" height="20" x="787" y="122" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="136" style="fill:black;" font-family="Arial" font-size="16px">sous_influence</text>
+   <rect width="123" height="20" x="787" y="142" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="156" style="fill:black;" font-family="Arial" font-size="16px">rang</text>
+   <rect width="123" height="20" x="787" y="162" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="176" style="fill:black;" font-family="Arial" font-size="16px">alliance</text>
+   <rect width="123" height="20" x="787" y="182" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="196" style="fill:black;" font-family="Arial" font-size="16px">membre_faction</text>
+   <rect width="123" height="20" x="787" y="202" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="216" style="fill:black;" font-family="Arial" font-size="16px">chef_faction</text>
+   <rect width="123" height="20" x="787" y="222" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="236" style="fill:black;" font-family="Arial" font-size="16px">garantie</text>
+   <rect width="123" height="20" x="787" y="242" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="256" style="fill:black;" font-family="Arial" font-size="16px">protectorat</text>
+   <rect width="123" height="20" x="787" y="262" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="276" style="fill:black;" font-family="Arial" font-size="16px">protecteur</text>
+   <rect width="123" height="20" x="787" y="282" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="296" style="fill:black;" font-family="Arial" font-size="16px">colonies</text>
+   <rect width="123" height="20" x="787" y="302" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="316" style="fill:black;" font-family="Arial" font-size="16px">partage_donnee</text>
+   <rect width="123" height="20" x="787" y="322" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="792" y="336" style="fill:black;" font-family="Arial" font-size="16px">partage_recu</text>
+   <rect width="117" height="20" x="47" y="370" style="fill:#007;stroke:black;"/>
+   <text width="117" height="20" x="52" y="384" style="fill:#fff;" font-family="Arial" font-size="16px"> Ethnies</text>
+   <rect width="117" height="20" x="47" y="390" style="fill:#aea;stroke:black;"/>
+   <text width="117" height="20" x="52" y="404" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="117" height="20" x="47" y="410" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="52" y="424" style="fill:black;" font-family="Arial" font-size="16px">pays</text>
+   <rect width="117" height="20" x="47" y="430" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="52" y="444" style="fill:black;" font-family="Arial" font-size="16px">nom</text>
+   <rect width="117" height="20" x="47" y="450" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="52" y="464" style="fill:black;" font-family="Arial" font-size="16px">part_population</text>
+   <rect width="128" height="20" x="76" y="127" style="fill:#007;stroke:black;"/>
+   <text width="128" height="20" x="81" y="141" style="fill:#fff;" font-family="Arial" font-size="16px"> Faction</text>
+   <rect width="128" height="20" x="76" y="147" style="fill:#aea;stroke:black;"/>
+   <text width="128" height="20" x="81" y="161" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="128" height="20" x="76" y="167" style="fill:none;stroke:black;"/>
+   <text width="128" height="20" x="81" y="181" style="fill:black;" font-family="Arial" font-size="16px">nom</text>
+   <rect width="128" height="20" x="76" y="187" style="fill:none;stroke:black;"/>
+   <text width="128" height="20" x="81" y="201" style="fill:black;" font-family="Arial" font-size="16px">chef</text>
+   <rect width="128" height="20" x="76" y="207" style="fill:none;stroke:black;"/>
+   <text width="128" height="20" x="81" y="221" style="fill:black;" font-family="Arial" font-size="16px">nombre_membre</text>
+   <rect width="202" height="20" x="1598" y="892" style="fill:#007;stroke:black;"/>
+   <text width="202" height="20" x="1603" y="906" style="fill:#fff;" font-family="Arial" font-size="16px"> Interieur</text>
+   <rect width="202" height="20" x="1598" y="912" style="fill:#aea;stroke:black;"/>
+   <text width="202" height="20" x="1603" y="926" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="202" height="20" x="1598" y="932" style="fill:none;stroke:black;"/>
+   <text width="202" height="20" x="1603" y="946" style="fill:black;" font-family="Arial" font-size="16px">est_monarchie</text>
+   <rect width="202" height="20" x="1598" y="952" style="fill:none;stroke:black;"/>
+   <text width="202" height="20" x="1603" y="966" style="fill:black;" font-family="Arial" font-size="16px">niveau_autoritarisme</text>
+   <rect width="202" height="20" x="1598" y="972" style="fill:none;stroke:black;"/>
+   <text width="202" height="20" x="1603" y="986" style="fill:black;" font-family="Arial" font-size="16px">orientation_politique</text>
+   <rect width="202" height="20" x="1598" y="992" style="fill:none;stroke:black;"/>
+   <text width="202" height="20" x="1603" y="1006" style="fill:black;" font-family="Arial" font-size="16px">nombre_tour_avant_election</text>
+   <rect width="202" height="20" x="1598" y="1012" style="fill:none;stroke:black;"/>
+   <text width="202" height="20" x="1603" y="1026" style="fill:black;" font-family="Arial" font-size="16px">niveau_centralisation</text>
+   <rect width="202" height="20" x="1598" y="1032" style="fill:none;stroke:black;"/>
+   <text width="202" height="20" x="1603" y="1046" style="fill:black;" font-family="Arial" font-size="16px">niveau_tolerance</text>
+   <rect width="202" height="20" x="1598" y="1052" style="fill:none;stroke:black;"/>
+   <text width="202" height="20" x="1603" y="1066" style="fill:black;" font-family="Arial" font-size="16px">niveau_imposition</text>
+   <rect width="202" height="20" x="1598" y="1072" style="fill:none;stroke:black;"/>
+   <text width="202" height="20" x="1603" y="1086" style="fill:black;" font-family="Arial" font-size="16px">niveau_conscription</text>
+   <rect width="153" height="20" x="281" y="77" style="fill:#007;stroke:black;"/>
+   <text width="153" height="20" x="286" y="91" style="fill:#fff;" font-family="Arial" font-size="16px"> MainData</text>
+   <rect width="153" height="20" x="281" y="97" style="fill:#aea;stroke:black;"/>
+   <text width="153" height="20" x="286" y="111" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="153" height="20" x="281" y="117" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="286" y="131" style="fill:black;" font-family="Arial" font-size="16px">pays</text>
+   <rect width="153" height="20" x="281" y="137" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="286" y="151" style="fill:black;" font-family="Arial" font-size="16px">population</text>
+   <rect width="153" height="20" x="281" y="157" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="286" y="171" style="fill:black;" font-family="Arial" font-size="16px">tresorerie</text>
+   <rect width="153" height="20" x="281" y="177" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="286" y="191" style="fill:black;" font-family="Arial" font-size="16px">revenus_divers</text>
+   <rect width="153" height="20" x="281" y="197" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="286" y="211" style="fill:black;" font-family="Arial" font-size="16px">depense_divers</text>
+   <rect width="153" height="20" x="281" y="217" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="286" y="231" style="fill:black;" font-family="Arial" font-size="16px">brut_dev</text>
+   <rect width="153" height="20" x="281" y="237" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="286" y="251" style="fill:black;" font-family="Arial" font-size="16px">longueur_autoroute</text>
+   <rect width="153" height="20" x="281" y="257" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="286" y="271" style="fill:black;" font-family="Arial" font-size="16px">longueur_chemin_fer</text>
+   <rect width="153" height="20" x="281" y="277" style="fill:none;stroke:black;"/>
+   <text width="153" height="20" x="286" y="291" style="fill:black;" font-family="Arial" font-size="16px">longueur_canaux</text>
+   <rect width="146" height="20" x="961" y="618" style="fill:#007;stroke:black;"/>
+   <text width="146" height="20" x="966" y="632" style="fill:#fff;" font-family="Arial" font-size="16px"> Marine</text>
+   <rect width="146" height="20" x="961" y="638" style="fill:#aea;stroke:black;"/>
+   <text width="146" height="20" x="966" y="652" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="146" height="20" x="961" y="658" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="966" y="672" style="fill:black;" font-family="Arial" font-size="16px">quantite_auxiliere</text>
+   <rect width="146" height="20" x="961" y="678" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="966" y="692" style="fill:black;" font-family="Arial" font-size="16px">quantite_corvette</text>
+   <rect width="146" height="20" x="961" y="698" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="966" y="712" style="fill:black;" font-family="Arial" font-size="16px">quantite_croiseur</text>
+   <rect width="146" height="20" x="961" y="718" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="966" y="732" style="fill:black;" font-family="Arial" font-size="16px">quantite_destroyer</text>
+   <rect width="146" height="20" x="961" y="738" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="966" y="752" style="fill:black;" font-family="Arial" font-size="16px">quantite_fregate</text>
+   <rect width="146" height="20" x="961" y="758" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="966" y="772" style="fill:black;" font-family="Arial" font-size="16px">quantite_sousmarin</text>
+   <rect width="146" height="20" x="961" y="778" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="966" y="792" style="fill:black;" font-family="Arial" font-size="16px">quantite_trireme</text>
+   <rect width="180" height="20" x="1177" y="416" style="fill:#007;stroke:black;"/>
+   <text width="180" height="20" x="1182" y="430" style="fill:#fff;" font-family="Arial" font-size="16px"> Modificateur_satisfaction</text>
+   <rect width="180" height="20" x="1177" y="436" style="fill:#aea;stroke:black;"/>
+   <text width="180" height="20" x="1182" y="450" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="180" height="20" x="1177" y="456" style="fill:none;stroke:black;"/>
+   <text width="180" height="20" x="1182" y="470" style="fill:black;" font-family="Arial" font-size="16px">paix_refusee</text>
+   <rect width="180" height="20" x="1177" y="476" style="fill:none;stroke:black;"/>
+   <text width="180" height="20" x="1182" y="490" style="fill:black;" font-family="Arial" font-size="16px">alliance_mal_vue</text>
+   <rect width="180" height="20" x="1177" y="496" style="fill:none;stroke:black;"/>
+   <text width="180" height="20" x="1182" y="510" style="fill:black;" font-family="Arial" font-size="16px">election_repoussee</text>
+   <rect width="180" height="20" x="1177" y="516" style="fill:none;stroke:black;"/>
+   <text width="180" height="20" x="1182" y="530" style="fill:black;" font-family="Arial" font-size="16px">traite_brise</text>
+   <rect width="180" height="20" x="1177" y="536" style="fill:none;stroke:black;"/>
+   <text width="180" height="20" x="1182" y="550" style="fill:black;" font-family="Arial" font-size="16px">satisfaction_divers</text>
+   <rect width="111" height="20" x="937" y="420" style="fill:#007;stroke:black;"/>
+   <text width="111" height="20" x="942" y="434" style="fill:#fff;" font-family="Arial" font-size="16px"> Politiques</text>
+   <rect width="111" height="20" x="937" y="440" style="fill:#aea;stroke:black;"/>
+   <text width="111" height="20" x="942" y="454" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="111" height="20" x="937" y="460" style="fill:none;stroke:black;"/>
+   <text width="111" height="20" x="942" y="474" style="fill:black;" font-family="Arial" font-size="16px">hopitaux</text>
+   <rect width="111" height="20" x="937" y="480" style="fill:none;stroke:black;"/>
+   <text width="111" height="20" x="942" y="494" style="fill:black;" font-family="Arial" font-size="16px">aides_sociales</text>
+   <rect width="111" height="20" x="937" y="500" style="fill:none;stroke:black;"/>
+   <text width="111" height="20" x="942" y="514" style="fill:black;" font-family="Arial" font-size="16px">contraception</text>
+   <rect width="111" height="20" x="937" y="520" style="fill:none;stroke:black;"/>
+   <text width="111" height="20" x="942" y="534" style="fill:black;" font-family="Arial" font-size="16px">presse</text>
+   <rect width="111" height="20" x="937" y="540" style="fill:none;stroke:black;"/>
+   <text width="111" height="20" x="942" y="554" style="fill:black;" font-family="Arial" font-size="16px">greve</text>
+   <rect width="111" height="20" x="937" y="560" style="fill:none;stroke:black;"/>
+   <text width="111" height="20" x="942" y="574" style="fill:black;" font-family="Arial" font-size="16px">education</text>
+   <rect width="194" height="20" x="1177" y="698" style="fill:#007;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="712" style="fill:#fff;" font-family="Arial" font-size="16px"> Ressources</text>
+   <rect width="194" height="20" x="1177" y="718" style="fill:#aea;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="732" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="194" height="20" x="1177" y="738" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="752" style="fill:black;" font-family="Arial" font-size="16px">filons_aluminium</text>
+   <rect width="194" height="20" x="1177" y="758" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="772" style="fill:black;" font-family="Arial" font-size="16px">filons_carbone</text>
+   <rect width="194" height="20" x="1177" y="778" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="792" style="fill:black;" font-family="Arial" font-size="16px">filons_chromium</text>
+   <rect width="194" height="20" x="1177" y="798" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="812" style="fill:black;" font-family="Arial" font-size="16px">filons_cuivre</text>
+   <rect width="194" height="20" x="1177" y="818" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="832" style="fill:black;" font-family="Arial" font-size="16px">filons_fer</text>
+   <rect width="194" height="20" x="1177" y="838" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="852" style="fill:black;" font-family="Arial" font-size="16px">filons_charbon</text>
+   <rect width="194" height="20" x="1177" y="858" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="872" style="fill:black;" font-family="Arial" font-size="16px">filons_gaz</text>
+   <rect width="194" height="20" x="1177" y="878" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="892" style="fill:black;" font-family="Arial" font-size="16px">filons_petrole</text>
+   <rect width="194" height="20" x="1177" y="898" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="912" style="fill:black;" font-family="Arial" font-size="16px">filons_exploites_aluminium</text>
+   <rect width="194" height="20" x="1177" y="918" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="932" style="fill:black;" font-family="Arial" font-size="16px">filons_exploites_carbone</text>
+   <rect width="194" height="20" x="1177" y="938" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="952" style="fill:black;" font-family="Arial" font-size="16px">filons_exploites_chromium</text>
+   <rect width="194" height="20" x="1177" y="958" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="972" style="fill:black;" font-family="Arial" font-size="16px">filons_exploites_cuivre</text>
+   <rect width="194" height="20" x="1177" y="978" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="992" style="fill:black;" font-family="Arial" font-size="16px">filons_exploites_fer</text>
+   <rect width="194" height="20" x="1177" y="998" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1012" style="fill:black;" font-family="Arial" font-size="16px">filons_exploites_charbon</text>
+   <rect width="194" height="20" x="1177" y="1018" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1032" style="fill:black;" font-family="Arial" font-size="16px">filons_exploites_gaz</text>
+   <rect width="194" height="20" x="1177" y="1038" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1052" style="fill:black;" font-family="Arial" font-size="16px">filons_exploites_petrole</text>
+   <rect width="194" height="20" x="1177" y="1058" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1072" style="fill:black;" font-family="Arial" font-size="16px">nourriture_acquis</text>
+   <rect width="194" height="20" x="1177" y="1078" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1092" style="fill:black;" font-family="Arial" font-size="16px">textile_acquis</text>
+   <rect width="194" height="20" x="1177" y="1098" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1112" style="fill:black;" font-family="Arial" font-size="16px">vetements_acquis</text>
+   <rect width="194" height="20" x="1177" y="1118" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1132" style="fill:black;" font-family="Arial" font-size="16px">bois_acquis</text>
+   <rect width="194" height="20" x="1177" y="1138" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1152" style="fill:black;" font-family="Arial" font-size="16px">pierre_acquis</text>
+   <rect width="194" height="20" x="1177" y="1158" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1172" style="fill:black;" font-family="Arial" font-size="16px">plante_acquis</text>
+   <rect width="194" height="20" x="1177" y="1178" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1192" style="fill:black;" font-family="Arial" font-size="16px">sable_acquis</text>
+   <rect width="194" height="20" x="1177" y="1198" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1212" style="fill:black;" font-family="Arial" font-size="16px">aluminium_acquis</text>
+   <rect width="194" height="20" x="1177" y="1218" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1232" style="fill:black;" font-family="Arial" font-size="16px">carbone_acquis</text>
+   <rect width="194" height="20" x="1177" y="1238" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1252" style="fill:black;" font-family="Arial" font-size="16px">chromium_acquis</text>
+   <rect width="194" height="20" x="1177" y="1258" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1272" style="fill:black;" font-family="Arial" font-size="16px">cuivre_acquis</text>
+   <rect width="194" height="20" x="1177" y="1278" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1292" style="fill:black;" font-family="Arial" font-size="16px">fer_acquis</text>
+   <rect width="194" height="20" x="1177" y="1298" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1312" style="fill:black;" font-family="Arial" font-size="16px">charbon_acquis</text>
+   <rect width="194" height="20" x="1177" y="1318" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1332" style="fill:black;" font-family="Arial" font-size="16px">gaz_acquis</text>
+   <rect width="194" height="20" x="1177" y="1338" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1352" style="fill:black;" font-family="Arial" font-size="16px">petrole_acquis</text>
+   <rect width="194" height="20" x="1177" y="1358" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1372" style="fill:black;" font-family="Arial" font-size="16px">nourriture_vendu</text>
+   <rect width="194" height="20" x="1177" y="1378" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1392" style="fill:black;" font-family="Arial" font-size="16px">textile_vendu</text>
+   <rect width="194" height="20" x="1177" y="1398" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1412" style="fill:black;" font-family="Arial" font-size="16px">vetements_vendu</text>
+   <rect width="194" height="20" x="1177" y="1418" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1432" style="fill:black;" font-family="Arial" font-size="16px">bois_vendu</text>
+   <rect width="194" height="20" x="1177" y="1438" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1452" style="fill:black;" font-family="Arial" font-size="16px">pierre_vendu</text>
+   <rect width="194" height="20" x="1177" y="1458" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1472" style="fill:black;" font-family="Arial" font-size="16px">plante_vendu</text>
+   <rect width="194" height="20" x="1177" y="1478" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1492" style="fill:black;" font-family="Arial" font-size="16px">sable_vendu</text>
+   <rect width="194" height="20" x="1177" y="1498" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1512" style="fill:black;" font-family="Arial" font-size="16px">aluminium_vendu</text>
+   <rect width="194" height="20" x="1177" y="1518" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1532" style="fill:black;" font-family="Arial" font-size="16px">carbone_vendu</text>
+   <rect width="194" height="20" x="1177" y="1538" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1552" style="fill:black;" font-family="Arial" font-size="16px">chromium_vendu</text>
+   <rect width="194" height="20" x="1177" y="1558" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1572" style="fill:black;" font-family="Arial" font-size="16px">cuivre_vendu</text>
+   <rect width="194" height="20" x="1177" y="1578" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1592" style="fill:black;" font-family="Arial" font-size="16px">fer_vendu</text>
+   <rect width="194" height="20" x="1177" y="1598" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1612" style="fill:black;" font-family="Arial" font-size="16px">charbon_vendu</text>
+   <rect width="194" height="20" x="1177" y="1618" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1632" style="fill:black;" font-family="Arial" font-size="16px">gaz_vendu</text>
+   <rect width="194" height="20" x="1177" y="1638" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1652" style="fill:black;" font-family="Arial" font-size="16px">petrole_vendu</text>
+   <rect width="194" height="20" x="1177" y="1658" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1672" style="fill:black;" font-family="Arial" font-size="16px">nourriture_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1678" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1692" style="fill:black;" font-family="Arial" font-size="16px">textile_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1698" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1712" style="fill:black;" font-family="Arial" font-size="16px">vetements_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1718" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1732" style="fill:black;" font-family="Arial" font-size="16px">bois_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1738" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1752" style="fill:black;" font-family="Arial" font-size="16px">pierre_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1758" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1772" style="fill:black;" font-family="Arial" font-size="16px">plante_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1778" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1792" style="fill:black;" font-family="Arial" font-size="16px">sable_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1798" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1812" style="fill:black;" font-family="Arial" font-size="16px">aluminium_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1818" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1832" style="fill:black;" font-family="Arial" font-size="16px">carbone_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1838" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1852" style="fill:black;" font-family="Arial" font-size="16px">chromium_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1858" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1872" style="fill:black;" font-family="Arial" font-size="16px">cuivre_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1878" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1892" style="fill:black;" font-family="Arial" font-size="16px">fer_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1898" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1912" style="fill:black;" font-family="Arial" font-size="16px">charbon_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1918" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1932" style="fill:black;" font-family="Arial" font-size="16px">gaz_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1938" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1952" style="fill:black;" font-family="Arial" font-size="16px">petrole_cout_import</text>
+   <rect width="194" height="20" x="1177" y="1958" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1972" style="fill:black;" font-family="Arial" font-size="16px">nourriture_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="1978" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="1992" style="fill:black;" font-family="Arial" font-size="16px">textile_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="1998" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2012" style="fill:black;" font-family="Arial" font-size="16px">vetements_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="2018" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2032" style="fill:black;" font-family="Arial" font-size="16px">bois_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="2038" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2052" style="fill:black;" font-family="Arial" font-size="16px">pierre_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="2058" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2072" style="fill:black;" font-family="Arial" font-size="16px">plante_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="2078" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2092" style="fill:black;" font-family="Arial" font-size="16px">sable_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="2098" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2112" style="fill:black;" font-family="Arial" font-size="16px">aluminium_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="2118" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2132" style="fill:black;" font-family="Arial" font-size="16px">carbone_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="2138" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2152" style="fill:black;" font-family="Arial" font-size="16px">chromium_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="2158" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2172" style="fill:black;" font-family="Arial" font-size="16px">cuivre_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="2178" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2192" style="fill:black;" font-family="Arial" font-size="16px">fer_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="2198" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2212" style="fill:black;" font-family="Arial" font-size="16px">charbon_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="2218" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2232" style="fill:black;" font-family="Arial" font-size="16px">gaz_revenu_export</text>
+   <rect width="194" height="20" x="1177" y="2238" style="fill:none;stroke:black;"/>
+   <text width="194" height="20" x="1182" y="2252" style="fill:black;" font-family="Arial" font-size="16px">petrole_revenu_export</text>
+   <rect width="69" height="20" x="1424" y="650" style="fill:#007;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="664" style="fill:#fff;" font-family="Arial" font-size="16px"> Techtree</text>
+   <rect width="69" height="20" x="1424" y="670" style="fill:#aea;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="684" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="69" height="20" x="1424" y="690" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="704" style="fill:black;" font-family="Arial" font-size="16px">eco1a</text>
+   <rect width="69" height="20" x="1424" y="710" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="724" style="fill:black;" font-family="Arial" font-size="16px">eco1b</text>
+   <rect width="69" height="20" x="1424" y="730" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="744" style="fill:black;" font-family="Arial" font-size="16px">eco1c</text>
+   <rect width="69" height="20" x="1424" y="750" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="764" style="fill:black;" font-family="Arial" font-size="16px">eco2a</text>
+   <rect width="69" height="20" x="1424" y="770" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="784" style="fill:black;" font-family="Arial" font-size="16px">eco2b</text>
+   <rect width="69" height="20" x="1424" y="790" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="804" style="fill:black;" font-family="Arial" font-size="16px">eco2c</text>
+   <rect width="69" height="20" x="1424" y="810" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="824" style="fill:black;" font-family="Arial" font-size="16px">eco2d</text>
+   <rect width="69" height="20" x="1424" y="830" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="844" style="fill:black;" font-family="Arial" font-size="16px">eco2e</text>
+   <rect width="69" height="20" x="1424" y="850" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="864" style="fill:black;" font-family="Arial" font-size="16px">eco2f</text>
+   <rect width="69" height="20" x="1424" y="870" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="884" style="fill:black;" font-family="Arial" font-size="16px">eco2g</text>
+   <rect width="69" height="20" x="1424" y="890" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="904" style="fill:black;" font-family="Arial" font-size="16px">eco2h</text>
+   <rect width="69" height="20" x="1424" y="910" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="924" style="fill:black;" font-family="Arial" font-size="16px">eco2i</text>
+   <rect width="69" height="20" x="1424" y="930" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="944" style="fill:black;" font-family="Arial" font-size="16px">eco3a</text>
+   <rect width="69" height="20" x="1424" y="950" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="964" style="fill:black;" font-family="Arial" font-size="16px">eco3b</text>
+   <rect width="69" height="20" x="1424" y="970" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="984" style="fill:black;" font-family="Arial" font-size="16px">eco3c</text>
+   <rect width="69" height="20" x="1424" y="990" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1004" style="fill:black;" font-family="Arial" font-size="16px">eco3d</text>
+   <rect width="69" height="20" x="1424" y="1010" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1024" style="fill:black;" font-family="Arial" font-size="16px">eco3e</text>
+   <rect width="69" height="20" x="1424" y="1030" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1044" style="fill:black;" font-family="Arial" font-size="16px">eco4a</text>
+   <rect width="69" height="20" x="1424" y="1050" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1064" style="fill:black;" font-family="Arial" font-size="16px">eco4b</text>
+   <rect width="69" height="20" x="1424" y="1070" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1084" style="fill:black;" font-family="Arial" font-size="16px">eco4c</text>
+   <rect width="69" height="20" x="1424" y="1090" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1104" style="fill:black;" font-family="Arial" font-size="16px">eco4d</text>
+   <rect width="69" height="20" x="1424" y="1110" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1124" style="fill:black;" font-family="Arial" font-size="16px">eco4e</text>
+   <rect width="69" height="20" x="1424" y="1130" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1144" style="fill:black;" font-family="Arial" font-size="16px">eco4f</text>
+   <rect width="69" height="20" x="1424" y="1150" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1164" style="fill:black;" font-family="Arial" font-size="16px">eco4g</text>
+   <rect width="69" height="20" x="1424" y="1170" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1184" style="fill:black;" font-family="Arial" font-size="16px">eco4h</text>
+   <rect width="69" height="20" x="1424" y="1190" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1204" style="fill:black;" font-family="Arial" font-size="16px">eco4i</text>
+   <rect width="69" height="20" x="1424" y="1210" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1224" style="fill:black;" font-family="Arial" font-size="16px">eco4j</text>
+   <rect width="69" height="20" x="1424" y="1230" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1244" style="fill:black;" font-family="Arial" font-size="16px">eco5a</text>
+   <rect width="69" height="20" x="1424" y="1250" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1264" style="fill:black;" font-family="Arial" font-size="16px">eco5b</text>
+   <rect width="69" height="20" x="1424" y="1270" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1284" style="fill:black;" font-family="Arial" font-size="16px">eco5c</text>
+   <rect width="69" height="20" x="1424" y="1290" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1304" style="fill:black;" font-family="Arial" font-size="16px">eco5d</text>
+   <rect width="69" height="20" x="1424" y="1310" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1324" style="fill:black;" font-family="Arial" font-size="16px">eco5e</text>
+   <rect width="69" height="20" x="1424" y="1330" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1344" style="fill:black;" font-family="Arial" font-size="16px">eco5f</text>
+   <rect width="69" height="20" x="1424" y="1350" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1364" style="fill:black;" font-family="Arial" font-size="16px">eco5g</text>
+   <rect width="69" height="20" x="1424" y="1370" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1384" style="fill:black;" font-family="Arial" font-size="16px">eco5h</text>
+   <rect width="69" height="20" x="1424" y="1390" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1404" style="fill:black;" font-family="Arial" font-size="16px">eco6a</text>
+   <rect width="69" height="20" x="1424" y="1410" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1424" style="fill:black;" font-family="Arial" font-size="16px">eco6b</text>
+   <rect width="69" height="20" x="1424" y="1430" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1444" style="fill:black;" font-family="Arial" font-size="16px">eco6c</text>
+   <rect width="69" height="20" x="1424" y="1450" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1464" style="fill:black;" font-family="Arial" font-size="16px">eco7a</text>
+   <rect width="69" height="20" x="1424" y="1470" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1484" style="fill:black;" font-family="Arial" font-size="16px">eco7b</text>
+   <rect width="69" height="20" x="1424" y="1490" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1504" style="fill:black;" font-family="Arial" font-size="16px">eco7c</text>
+   <rect width="69" height="20" x="1424" y="1510" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1524" style="fill:black;" font-family="Arial" font-size="16px">eco7d</text>
+   <rect width="69" height="20" x="1424" y="1530" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1544" style="fill:black;" font-family="Arial" font-size="16px">eco8a</text>
+   <rect width="69" height="20" x="1424" y="1550" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1564" style="fill:black;" font-family="Arial" font-size="16px">eco8b</text>
+   <rect width="69" height="20" x="1424" y="1570" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1584" style="fill:black;" font-family="Arial" font-size="16px">eco8c</text>
+   <rect width="69" height="20" x="1424" y="1590" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1604" style="fill:black;" font-family="Arial" font-size="16px">ter1</text>
+   <rect width="69" height="20" x="1424" y="1610" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1624" style="fill:black;" font-family="Arial" font-size="16px">ter2a</text>
+   <rect width="69" height="20" x="1424" y="1630" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1644" style="fill:black;" font-family="Arial" font-size="16px">ter2b</text>
+   <rect width="69" height="20" x="1424" y="1650" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1664" style="fill:black;" font-family="Arial" font-size="16px">ter2c</text>
+   <rect width="69" height="20" x="1424" y="1670" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1684" style="fill:black;" font-family="Arial" font-size="16px">ter2d</text>
+   <rect width="69" height="20" x="1424" y="1690" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1704" style="fill:black;" font-family="Arial" font-size="16px">ter3a</text>
+   <rect width="69" height="20" x="1424" y="1710" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1724" style="fill:black;" font-family="Arial" font-size="16px">ter3b</text>
+   <rect width="69" height="20" x="1424" y="1730" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1744" style="fill:black;" font-family="Arial" font-size="16px">ter3c</text>
+   <rect width="69" height="20" x="1424" y="1750" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1764" style="fill:black;" font-family="Arial" font-size="16px">ter3d</text>
+   <rect width="69" height="20" x="1424" y="1770" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1784" style="fill:black;" font-family="Arial" font-size="16px">ter3e</text>
+   <rect width="69" height="20" x="1424" y="1790" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1804" style="fill:black;" font-family="Arial" font-size="16px">ter3f</text>
+   <rect width="69" height="20" x="1424" y="1810" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1824" style="fill:black;" font-family="Arial" font-size="16px">ter3g</text>
+   <rect width="69" height="20" x="1424" y="1830" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1844" style="fill:black;" font-family="Arial" font-size="16px">ter4a</text>
+   <rect width="69" height="20" x="1424" y="1850" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1864" style="fill:black;" font-family="Arial" font-size="16px">ter4b</text>
+   <rect width="69" height="20" x="1424" y="1870" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1884" style="fill:black;" font-family="Arial" font-size="16px">ter4c</text>
+   <rect width="69" height="20" x="1424" y="1890" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1904" style="fill:black;" font-family="Arial" font-size="16px">ter4d</text>
+   <rect width="69" height="20" x="1424" y="1910" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1924" style="fill:black;" font-family="Arial" font-size="16px">ter4e</text>
+   <rect width="69" height="20" x="1424" y="1930" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1944" style="fill:black;" font-family="Arial" font-size="16px">ter4f</text>
+   <rect width="69" height="20" x="1424" y="1950" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1964" style="fill:black;" font-family="Arial" font-size="16px">ter4g</text>
+   <rect width="69" height="20" x="1424" y="1970" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="1984" style="fill:black;" font-family="Arial" font-size="16px">ter4h</text>
+   <rect width="69" height="20" x="1424" y="1990" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2004" style="fill:black;" font-family="Arial" font-size="16px">ter4i</text>
+   <rect width="69" height="20" x="1424" y="2010" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2024" style="fill:black;" font-family="Arial" font-size="16px">ter4j</text>
+   <rect width="69" height="20" x="1424" y="2030" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2044" style="fill:black;" font-family="Arial" font-size="16px">ter5a</text>
+   <rect width="69" height="20" x="1424" y="2050" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2064" style="fill:black;" font-family="Arial" font-size="16px">ter5b</text>
+   <rect width="69" height="20" x="1424" y="2070" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2084" style="fill:black;" font-family="Arial" font-size="16px">ter5c</text>
+   <rect width="69" height="20" x="1424" y="2090" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2104" style="fill:black;" font-family="Arial" font-size="16px">ter5d</text>
+   <rect width="69" height="20" x="1424" y="2110" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2124" style="fill:black;" font-family="Arial" font-size="16px">ter5e</text>
+   <rect width="69" height="20" x="1424" y="2130" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2144" style="fill:black;" font-family="Arial" font-size="16px">ter5f</text>
+   <rect width="69" height="20" x="1424" y="2150" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2164" style="fill:black;" font-family="Arial" font-size="16px">ter5g</text>
+   <rect width="69" height="20" x="1424" y="2170" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2184" style="fill:black;" font-family="Arial" font-size="16px">ter5h</text>
+   <rect width="69" height="20" x="1424" y="2190" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2204" style="fill:black;" font-family="Arial" font-size="16px">ter5i</text>
+   <rect width="69" height="20" x="1424" y="2210" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2224" style="fill:black;" font-family="Arial" font-size="16px">ter5j</text>
+   <rect width="69" height="20" x="1424" y="2230" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2244" style="fill:black;" font-family="Arial" font-size="16px">ter5k</text>
+   <rect width="69" height="20" x="1424" y="2250" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2264" style="fill:black;" font-family="Arial" font-size="16px">ter5l</text>
+   <rect width="69" height="20" x="1424" y="2270" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2284" style="fill:black;" font-family="Arial" font-size="16px">mar0a</text>
+   <rect width="69" height="20" x="1424" y="2290" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2304" style="fill:black;" font-family="Arial" font-size="16px">mar1a</text>
+   <rect width="69" height="20" x="1424" y="2310" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2324" style="fill:black;" font-family="Arial" font-size="16px">mar1b</text>
+   <rect width="69" height="20" x="1424" y="2330" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2344" style="fill:black;" font-family="Arial" font-size="16px">mar1c</text>
+   <rect width="69" height="20" x="1424" y="2350" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2364" style="fill:black;" font-family="Arial" font-size="16px">mar1d</text>
+   <rect width="69" height="20" x="1424" y="2370" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2384" style="fill:black;" font-family="Arial" font-size="16px">mar1e</text>
+   <rect width="69" height="20" x="1424" y="2390" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2404" style="fill:black;" font-family="Arial" font-size="16px">mar1f</text>
+   <rect width="69" height="20" x="1424" y="2410" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2424" style="fill:black;" font-family="Arial" font-size="16px">mar1g</text>
+   <rect width="69" height="20" x="1424" y="2430" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2444" style="fill:black;" font-family="Arial" font-size="16px">mar2a</text>
+   <rect width="69" height="20" x="1424" y="2450" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2464" style="fill:black;" font-family="Arial" font-size="16px">mar2b</text>
+   <rect width="69" height="20" x="1424" y="2470" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2484" style="fill:black;" font-family="Arial" font-size="16px">mar2c</text>
+   <rect width="69" height="20" x="1424" y="2490" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2504" style="fill:black;" font-family="Arial" font-size="16px">ava1a</text>
+   <rect width="69" height="20" x="1424" y="2510" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2524" style="fill:black;" font-family="Arial" font-size="16px">ava1b</text>
+   <rect width="69" height="20" x="1424" y="2530" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2544" style="fill:black;" font-family="Arial" font-size="16px">ava1c</text>
+   <rect width="69" height="20" x="1424" y="2550" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2564" style="fill:black;" font-family="Arial" font-size="16px">ava2a</text>
+   <rect width="69" height="20" x="1424" y="2570" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2584" style="fill:black;" font-family="Arial" font-size="16px">ava2b</text>
+   <rect width="69" height="20" x="1424" y="2590" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2604" style="fill:black;" font-family="Arial" font-size="16px">ava2c</text>
+   <rect width="69" height="20" x="1424" y="2610" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2624" style="fill:black;" font-family="Arial" font-size="16px">ava2d</text>
+   <rect width="69" height="20" x="1424" y="2630" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2644" style="fill:black;" font-family="Arial" font-size="16px">ava2e</text>
+   <rect width="69" height="20" x="1424" y="2650" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2664" style="fill:black;" font-family="Arial" font-size="16px">ava2f</text>
+   <rect width="69" height="20" x="1424" y="2670" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2684" style="fill:black;" font-family="Arial" font-size="16px">ava2g</text>
+   <rect width="69" height="20" x="1424" y="2690" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="1429" y="2704" style="fill:black;" font-family="Arial" font-size="16px">ava2h</text>
+   <rect width="166" height="20" x="95" y="520" style="fill:#007;stroke:black;"/>
+   <text width="166" height="20" x="100" y="534" style="fill:#fff;" font-family="Arial" font-size="16px"> Ville</text>
+   <rect width="166" height="20" x="95" y="540" style="fill:#aea;stroke:black;"/>
+   <text width="166" height="20" x="100" y="554" style="fill:black;" font-family="Arial" font-size="16px">uid</text>
+   <rect width="166" height="20" x="95" y="560" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="574" style="fill:black;" font-family="Arial" font-size="16px">pays</text>
+   <rect width="166" height="20" x="95" y="580" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="594" style="fill:black;" font-family="Arial" font-size="16px">nom</text>
+   <rect width="166" height="20" x="95" y="600" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="614" style="fill:black;" font-family="Arial" font-size="16px">complexe_commercial</text>
+   <rect width="166" height="20" x="95" y="620" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="634" style="fill:black;" font-family="Arial" font-size="16px">complexe_nourriture</text>
+   <rect width="166" height="20" x="95" y="640" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="654" style="fill:black;" font-family="Arial" font-size="16px">complexe_textile</text>
+   <rect width="166" height="20" x="95" y="660" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="674" style="fill:black;" font-family="Arial" font-size="16px">complexe_vetement</text>
+   <rect width="166" height="20" x="95" y="680" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="694" style="fill:black;" font-family="Arial" font-size="16px">complexe_bois</text>
+   <rect width="166" height="20" x="95" y="700" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="714" style="fill:black;" font-family="Arial" font-size="16px">complexe_pierre</text>
+   <rect width="166" height="20" x="95" y="720" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="734" style="fill:black;" font-family="Arial" font-size="16px">complexe_plante</text>
+   <rect width="166" height="20" x="95" y="740" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="754" style="fill:black;" font-family="Arial" font-size="16px">complexe_sable</text>
+   <rect width="166" height="20" x="95" y="760" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="774" style="fill:black;" font-family="Arial" font-size="16px">extraction_charbon</text>
+   <rect width="166" height="20" x="95" y="780" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="794" style="fill:black;" font-family="Arial" font-size="16px">extraction_gaz</text>
+   <rect width="166" height="20" x="95" y="800" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="814" style="fill:black;" font-family="Arial" font-size="16px">extraction_petrole</text>
+   <rect width="166" height="20" x="95" y="820" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="834" style="fill:black;" font-family="Arial" font-size="16px">usine_bois</text>
+   <rect width="166" height="20" x="95" y="840" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="854" style="fill:black;" font-family="Arial" font-size="16px">usine_pierre</text>
+   <rect width="166" height="20" x="95" y="860" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="874" style="fill:black;" font-family="Arial" font-size="16px">usine_plante</text>
+   <rect width="166" height="20" x="95" y="880" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="894" style="fill:black;" font-family="Arial" font-size="16px">usine_sable</text>
+   <rect width="166" height="20" x="95" y="900" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="914" style="fill:black;" font-family="Arial" font-size="16px">usine_aluminium</text>
+   <rect width="166" height="20" x="95" y="920" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="934" style="fill:black;" font-family="Arial" font-size="16px">usine_carbone</text>
+   <rect width="166" height="20" x="95" y="940" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="954" style="fill:black;" font-family="Arial" font-size="16px">usine_chromium</text>
+   <rect width="166" height="20" x="95" y="960" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="974" style="fill:black;" font-family="Arial" font-size="16px">usine_cuivre</text>
+   <rect width="166" height="20" x="95" y="980" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="994" style="fill:black;" font-family="Arial" font-size="16px">usine_fer</text>
+   <rect width="166" height="20" x="95" y="1000" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="1014" style="fill:black;" font-family="Arial" font-size="16px">usine_charbon</text>
+   <rect width="166" height="20" x="95" y="1020" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="1034" style="fill:black;" font-family="Arial" font-size="16px">usine_gaz</text>
+   <rect width="166" height="20" x="95" y="1040" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="1054" style="fill:black;" font-family="Arial" font-size="16px">usine_petrole</text>
+   <rect width="166" height="20" x="95" y="1060" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="1074" style="fill:black;" font-family="Arial" font-size="16px">aeroport</text>
+   <rect width="166" height="20" x="95" y="1080" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="1094" style="fill:black;" font-family="Arial" font-size="16px">hopital</text>
+   <rect width="166" height="20" x="95" y="1100" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="1114" style="fill:black;" font-family="Arial" font-size="16px">port</text>
+   <rect width="166" height="20" x="95" y="1120" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="100" y="1134" style="fill:black;" font-family="Arial" font-size="16px">universite</text>
+</svg>
