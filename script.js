@@ -118,13 +118,13 @@ function sumDepensesConstruction(valeurs) {
     for (let i = 0; i < id.length; i++) {
         depenses_construction += searchBatiment(id[i]).prix * valeurs[id[i]];
     }
-    return depenses_construction;
+    return depenses_construction - computeNouveauRevenu(valeurs);
 }
-function computeGain(revenu, depenses_construction) {
+function computeGain(revenu, depenses_construction, nouveau_revenu) {
     return revenu - depenses_construction;
 }
 function computeTresorerie(variation_tresor, tresor) {
-    return - variation_tresor + tresor;
+    return variation_tresor + tresor;
 }
 function computeSatisfaction(liste_modificateur_satisfaction) {
     let satisfaction = 0;
@@ -152,6 +152,14 @@ function countAutresBatiments(values) {
 function computeCharbonConsomme(nb_usines) {
     return nb_usines / 5;
 }
+function computeNouveauRevenu(values) {
+    let revenu = 0;
+    for (let i = 0; i < id.length; i++) {
+        let batiment = searchBatiment(id[i]);
+        revenu += batiment.revenu_per_ressource * values[id[i]] * batiment.consommation;
+    }
+    return revenu;
+}
 function setNumberStyle(element){
     if (element.innerHTML > 0){
         element.setAttribute("class", "positive")
@@ -175,8 +183,9 @@ function main() {
     let developpement_modifiers = [searchBatiment("universite").developpement * values.universite, searchBatiment("hopital").developpement * values.hopital];
     result_elements.variation_developpement.innerHTML = computeDeveloppement(developpement_modifiers);
     let depenses_construction = sumDepensesConstruction(values);
-    result_elements.variation_tresorerie.innerHTML = computeGain(values.revenu, depenses_construction);
-    result_elements.tresorerie_finale.innerHTML = computeTresorerie(depenses_construction, values.tresor);
+    let gain = computeGain(values.revenu, depenses_construction);
+    result_elements.variation_tresorerie.innerHTML = gain;
+    result_elements.tresorerie_finale.innerHTML = computeTresorerie(gain, values.tresor);
     result_elements.variation_consommation_charbon.innerHTML = computeCharbonConsomme(countUsine(values));
     formatter(result_elements);
 }
