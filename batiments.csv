@@ -1,0 +1,40 @@
+nom,prix,revenu_per_ressource,satisfaction,developpement,consommation,production,type_ressource_consommee,type_ressource_produite
+port,10000,0,0,0,0,0,None,None
+complexe commercial,5000,300,1,0,0,0,None,None
+complexe nourriture,5000,0,0,0,0,1,None,nourriture
+complexe textile,5000,0,0,0,0,1,None,textile
+complexe bois,5000,0,0,0,0,1,None,bois
+complexe pierre,5000,0,0,0,0,1,None,pierre
+complexe sable,5000,0,0,0,0,1,None,sable
+complexe plante,5000,0,0,0,0,1,None,plante
+complexe vetement,5000,0,0,0,1,6,textile,vetement
+mine fer,15000,0,0,0,0,1,None,fer
+mine cuivre,15000,0,0,0,0,1,None,cuivre
+mine charbon,10000,0,0,0,0,1,None,charbon
+mine gaz,10000,0,0,0,0,1,None,gaz
+mine petrole,10000,0,0,0,0,1,None,petrole
+mine carbone,20000,0,0,0,0,1,None,carbone
+mine aluminium,20000,0,0,0,0,1,None,aluminium
+mine chromium,25000,0,0,0,0,1,None,chromium
+usine bois,10000,500,0,0,2,0,bois,None
+usine pierre,10000,500,0,0,2,0,pierre,None
+usine sable,10000,500,0,0,2,0,sable,None
+usine plante,10000,500,0,0,2,0,plante,None
+usine fer,15000,1500,0,0,2,0,fer,None
+usine cuivre,15000,1500,0,0,2,0,cuivre,None
+usine charbon,20000,2000,0,0,2,0,charbon,None
+usine gaz,20000,2000,0,0,2,0,gaz,None
+usine petrole,20000,2000,0,0,2,0,petrole,None
+usine carbone,25000,3000,0,0,2,0,carbone,None
+usine aluminium,25000,3000,0,0,2,0,aluminium,None
+usine chromium,35000,3500,0,0,2,0,chromium,None
+universite,10000,0,2.5,0.3,0,0,None,None
+hopital,15000,0,5,0.5,0,0,None,None
+autoroute,10,0.8,0,0,0,0,None,None
+canal,15,1.2,0,0,0,0,None,None
+chemin de fer,15,1.2,0,0,0,0,None,None
+aeroport,20000,0,0,0,0,0,None,None
+ville,25000,0,0,0,0,0,None,None
+producteur charbon,30000,0,0,0,0,1,None,charbon
+producteur gaz,30000,0,0,0,0,1,None,gaz
+producteur petrole,30000,0,0,0,0,1,None,petrole
