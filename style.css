@@ -15,10 +15,16 @@ table, td, th, tr {
 }
 input {
     border-style: none;
+    -webkit-appearance: none;
+    -moz-appearance: textfield;
 }
 article>table{
     width: fit-content;
 }
 thead>tr>th{
     font-size: 150%;
+}
+.zero, .negative, .positive {
+    width: 100px;
+
 }
