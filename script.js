@@ -1,9 +1,10 @@
 const batiment = [{ "nom": "port", "prix": 10000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 0, "type_ressource_consommee": "None", "type_ressource_produite": "None" }, { "nom": "complexe commercial", "prix": 5000, "revenu_per_ressource": 300, "satisfaction": 1, "developpement": 0, "consommation": 0, "production": 0, "type_ressource_consommee": "None", "type_ressource_produite": "None" }, { "nom": "complexe nourriture", "prix": 5000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "nourriture" }, { "nom": "complexe textile", "prix": 5000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "textile" }, { "nom": "complexe bois", "prix": 5000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "bois" }, { "nom": "complexe pierre", "prix": 5000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "pierre" }, { "nom": "complexe sable", "prix": 5000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "sable" }, { "nom": "complexe plante", "prix": 5000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "plante" }, { "nom": "complexe vetement", "prix": 5000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 1, "production": 6, "type_ressource_consommee": "textile", "type_ressource_produite": "vetement" }, { "nom": "mine fer", "prix": 15000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "fer" }, { "nom": "mine cuivre", "prix": 15000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "cuivre" }, { "nom": "mine charbon", "prix": 10000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "charbon" }, { "nom": "mine gaz", "prix": 10000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "gaz" }, { "nom": "mine petrole", "prix": 10000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "petrole" }, { "nom": "mine carbone", "prix": 20000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "carbone" }, { "nom": "mine aluminium", "prix": 20000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "aluminium" }, { "nom": "mine chromium", "prix": 25000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "chromium" }, { "nom": "usine bois", "prix": 10000, "revenu_per_ressource": 500, "satisfaction": 0, "developpement": 0, "consommation": 2, "production": 0, "type_ressource_consommee": "bois", "type_ressource_produite": "None" }, { "nom": "usine pierre", "prix": 10000, "revenu_per_ressource": 500, "satisfaction": 0, "developpement": 0, "consommation": 2, "production": 0, "type_ressource_consommee": "pierre", "type_ressource_produite": "None" }, { "nom": "usine sable", "prix": 10000, "revenu_per_ressource": 500, "satisfaction": 0, "developpement": 0, "consommation": 2, "production": 0, "type_ressource_consommee": "sable", "type_ressource_produite": "None" }, { "nom": "usine plante", "prix": 10000, "revenu_per_ressource": 500, "satisfaction": 0, "developpement": 0, "consommation": 2, "production": 0, "type_ressource_consommee": "plante", "type_ressource_produite": "None" }, { "nom": "usine fer", "prix": 15000, "revenu_per_ressource": 1500, "satisfaction": 0, "developpement": 0, "consommation": 2, "production": 0, "type_ressource_consommee": "fer", "type_ressource_produite": "None" }, { "nom": "usine cuivre", "prix": 15000, "revenu_per_ressource": 1500, "satisfaction": 0, "developpement": 0, "consommation": 2, "production": 0, "type_ressource_consommee": "cuivre", "type_ressource_produite": "None" }, { "nom": "usine charbon", "prix": 20000, "revenu_per_ressource": 2000, "satisfaction": 0, "developpement": 0, "consommation": 2, "production": 0, "type_ressource_consommee": "charbon", "type_ressource_produite": "None" }, { "nom": "usine gaz", "prix": 20000, "revenu_per_ressource": 2000, "satisfaction": 0, "developpement": 0, "consommation": 2, "production": 0, "type_ressource_consommee": "gaz", "type_ressource_produite": "None" }, { "nom": "usine petrole", "prix": 20000, "revenu_per_ressource": 2000, "satisfaction": 0, "developpement": 0, "consommation": 2, "production": 0, "type_ressource_consommee": "petrole", "type_ressource_produite": "None" }, { "nom": "usine carbone", "prix": 25000, "revenu_per_ressource": 3000, "satisfaction": 0, "developpement": 0, "consommation": 2, "production": 0, "type_ressource_consommee": "carbone", "type_ressource_produite": "None" }, { "nom": "usine aluminium", "prix": 25000, "revenu_per_ressource": 3000, "satisfaction": 0, "developpement": 0, "consommation": 2, "production": 0, "type_ressource_consommee": "aluminium", "type_ressource_produite": "None" }, { "nom": "usine chromium", "prix": 35000, "revenu_per_ressource": 3500, "satisfaction": 0, "developpement": 0, "consommation": 2, "production": 0, "type_ressource_consommee": "chromium", "type_ressource_produite": "None" }, { "nom": "universite", "prix": 10000, "revenu_per_ressource": 0, "satisfaction": 2.5, "developpement": 0.3, "consommation": 0, "production": 0, "type_ressource_consommee": "None", "type_ressource_produite": "None" }, { "nom": "hopital", "prix": 15000, "revenu_per_ressource": 0, "satisfaction": 5, "developpement": 0.5, "consommation": 0, "production": 0, "type_ressource_consommee": "None", "type_ressource_produite": "None" }, { "nom": "autoroute", "prix": 10, "revenu_per_ressource": 0.8, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 0, "type_ressource_consommee": "None", "type_ressource_produite": "None" }, { "nom": "canal", "prix": 15, "revenu_per_ressource": 1.2, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 0, "type_ressource_consommee": "None", "type_ressource_produite": "None" }, { "nom": "chemin de fer", "prix": 15, "revenu_per_ressource": 1.2, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 0, "type_ressource_consommee": "None", "type_ressource_produite": "None" }, { "nom": "aeroport", "prix": 20000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 0, "type_ressource_consommee": "None", "type_ressource_produite": "None" }, { "nom": "ville", "prix": 25000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 0, "type_ressource_consommee": "None", "type_ressource_produite": "None" }, { "nom": "producteur charbon", "prix": 30000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "charbon" }, { "nom": "producteur gaz", "prix": 30000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "gaz" }, { "nom": "producteur petrole", "prix": 30000, "revenu_per_ressource": 0, "satisfaction": 0, "developpement": 0, "consommation": 0, "production": 1, "type_ressource_consommee": "None", "type_ressource_produite": "petrole" }];
 const id = ["port", "complexe_commercial", "complexe_nourriture", "complexe_textile", "complexe_bois", "complexe_pierre", "complexe_sable", "complexe_plante", "complexe_vetement", "mine_fer", "mine_cuivre", "mine_charbon", "mine_gaz", "mine_petrole", "mine_carbone", "mine_aluminium", "mine_chromium", "usine_bois", "usine_pierre", "usine_sable", "usine_plante", "usine_fer", "usine_cuivre", "usine_charbon", "usine_gaz", "usine_petrole", "usine_carbone", "usine_aluminium", "usine_chromium", "universite", "hopital", "autoroute", "canal", "chemin_de_fer", "aeroport", "ville", "producteur_charbon", "producteur_gaz", "producteur_petrole"];
-const MANPOWER_PER_USINE = 5
-const MANPOWER_PER_BATIMENT = 0.5
-const INFRASTRUCTURE_FACTOR = 1 / 500
-const AUTOROUTE_FACTOR = 1 / 1000
+const MANPOWER_PER_USINE = 5;
+const MANPOWER_PER_BATIMENT = 0.5;
+const INFRASTRUCTURE_FACTOR = 1 / 500;
+const AUTOROUTE_FACTOR = 1 / 1000;
+const MAX_RESSOURCES_PER_USINE = 2;
 function elementLoader() {
     let elements = {
         "revenu": document.getElementById("revenu-input"),
@@ -54,7 +55,21 @@ function elementLoader() {
         "variation_satisfaction": document.getElementById("variation-satisfaction"),
         "variation_tresorerie": document.getElementById("variation-tresorerie"),
         "variation_manpower": document.getElementById("variation-manpower"),
-        "variation_consommation_charbon": document.getElementById("variation-consommation-charbon")
+        "variation_production_charbon": document.getElementById("variation-production-charbon"),
+        "variation_production_gaz": document.getElementById("variation-production-gaz"),
+        "variation_production_petrole": document.getElementById("variation-production-petrole"),
+        "variation_production_carbone": document.getElementById("variation-production-carbone"),
+        "variation_production_aluminium": document.getElementById("variation-production-aluminium"),
+        "variation_production_chromium": document.getElementById("variation-production-chromium"),
+        "variation_production_fer": document.getElementById("variation-production-fer"),
+        "variation_production_cuivre": document.getElementById("variation-production-cuivre"),
+        "variation_production_bois": document.getElementById("variation-production-bois"),
+        "variation_production_pierre": document.getElementById("variation-production-pierre"),
+        "variation_production_sable": document.getElementById("variation-production-sable"),
+        "variation_production_plante": document.getElementById("variation-production-plante"),
+        "variation_production_nourriture": document.getElementById("variation-production-nourriture"),
+        "variation_production_textile": document.getElementById("variation-production-textile"),
+        "variation_production_vetement": document.getElementById("variation-production-vetement"),
     };
     values = {
         "revenu": parseInt(elements.revenu.value),
@@ -141,7 +156,7 @@ function computeDeveloppement(liste_modificateur_developpement) {
     return developpement;
 }
 function computeManpower(nb_usine, nb_autres_batiment, nb_px_autoroutes, nb_px_canal, nb_px_chemin_de_fer) {
-    return nb_usine * MANPOWER_PER_USINE + (nb_autres_batiment + nb_px_autoroutes * AUTOROUTE_FACTOR + (nb_px_canal + nb_px_chemin_de_fer) * INFRASTRUCTURE_FACTOR) * MANPOWER_PER_BATIMENT;
+    return -1 * nb_usine * MANPOWER_PER_USINE + (nb_autres_batiment + nb_px_autoroutes * AUTOROUTE_FACTOR + (nb_px_canal + nb_px_chemin_de_fer) * INFRASTRUCTURE_FACTOR) * MANPOWER_PER_BATIMENT;
 }
 function countUsine(values) {
     return values.usine_bois + values.usine_pierre + values.usine_sable + values.usine_plante + values.usine_fer + values.usine_cuivre + values.usine_charbon + values.usine_gaz + values.usine_petrole + values.usine_carbone + values.usine_aluminium + values.usine_chromium;
@@ -151,6 +166,26 @@ function countAutresBatiments(values) {
 }
 function computeCharbonConsomme(nb_usines) {
     return nb_usines / 5;
+}
+function computeRessources(values){
+    let ressources = {
+        "charbon": values.producteur_charbon + values.mine_charbon - values.usine_charbon * MAX_RESSOURCES_PER_USINE - computeCharbonConsomme(countUsine(values)),
+        "gaz": values.producteur_gaz + values.mine_gaz - values.usine_gaz * MAX_RESSOURCES_PER_USINE,
+        "petrole": values.producteur_petrole + values.mine_petrole - values.usine_petrole * MAX_RESSOURCES_PER_USINE,
+        "carbone": values.mine_carbone - values.usine_carbone * MAX_RESSOURCES_PER_USINE,
+        "aluminium": values.mine_aluminium - values.usine_aluminium * MAX_RESSOURCES_PER_USINE,
+        "chromium": values.mine_chromium - values.usine_chromium * MAX_RESSOURCES_PER_USINE,
+        "fer": values.mine_fer - values.usine_fer * MAX_RESSOURCES_PER_USINE,
+        "cuivre": values.mine_cuivre - values.usine_cuivre * MAX_RESSOURCES_PER_USINE,
+        "bois": values.complexe_bois - values.usine_bois * MAX_RESSOURCES_PER_USINE,
+        "pierre": values.complexe_pierre - values.usine_pierre * MAX_RESSOURCES_PER_USINE,
+        "sable": values.complexe_sable - values.usine_sable * MAX_RESSOURCES_PER_USINE,
+        "plante": values.complexe_plante - values.usine_plante * MAX_RESSOURCES_PER_USINE - values.complexe_textile,
+        "nourriture": values.complexe_nourriture,
+        "textile": values.complexe_textile - values.complexe_vetement,
+        "vetement": values.complexe_vetement * 6
+    };
+    return ressources;
 }
 function computeNouveauRevenu(values) {
     let revenu = 0;
@@ -162,15 +197,18 @@ function computeNouveauRevenu(values) {
 }
 function setNumberStyle(element){
     if (element.innerHTML > 0){
-        element.setAttribute("class", "positive")
+        element.setAttribute("class", "positive");
     }
     else if (element.innerHTML < 0){
-        element.setAttribute("class", "negative")
+        element.setAttribute("class", "negative");
+    }
+    else if (element.innerHTML == 0){
+        element.setAttribute("class", "zero");
     }
 }
 function formatter(elements) {
     for (let element in elements){
-        setNumberStyle(elements[element])
+        setNumberStyle(elements[element]);
     }
 }
 function main() {
@@ -186,6 +224,11 @@ function main() {
     let gain = computeGain(values.revenu, depenses_construction);
     result_elements.variation_tresorerie.innerHTML = gain;
     result_elements.tresorerie_finale.innerHTML = computeTresorerie(gain, values.tresor);
-    result_elements.variation_consommation_charbon.innerHTML = computeCharbonConsomme(countUsine(values));
+    let ressources = computeRessources(values);
+    for (let ressource in ressources){
+        let id = `variation_production_${ressource}`;
+        result_elements[`${id}`].innerHTML = ressources[ressource];
+    }
     formatter(result_elements);
+
 }

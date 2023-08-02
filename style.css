@@ -4,3 +4,21 @@
 .positive{
     color: green;
 }
+body {
+    display: flex;
+    justify-content: space-around;
+    align-content: space-between;
+}
+table, td, th, tr {
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+input {
+    border-style: none;
+}
+article>table{
+    width: fit-content;
+}
+thead>tr>th{
+    font-size: 150%;
+}
